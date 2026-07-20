@@ -1,1 +1,3 @@
+
+Adding line from master copy
 Line added from branch copy
